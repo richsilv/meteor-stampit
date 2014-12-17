@@ -1,0 +1,3 @@
+[submodule "stampit"]
+	path = stampit
+	url = git@github.com:ericelliott/stampit.git
